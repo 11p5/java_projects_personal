@@ -11,8 +11,9 @@ public class Liberater {
 	
 	
 	
-	if((int i == 0,i<361, i++) ) {
-		
+	for(int i=0; i<Lib2.length; i++ ) {
+		if (i>0) { System.out.print(" , ");}
+		System.out.println(Lib2[i]);
 	}
 	
 	}
