@@ -13,7 +13,11 @@ public class Liberater {
 	
 	for(int i=0; i<Lib2.length; i++ ) {
 		if (i>0) { System.out.print(" , ");}
+		
 		System.out.println(Lib2[i]);
+		{
+		if ( int x == i,  x%2) {System.out.println(Lib2[i]),System.out.println(Lib2[i]),System.out.println(Lib2[i]),System.out.println(Lib2[i]);}
+		}
 	}
 	
 	}
